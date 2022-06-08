@@ -1,4 +1,4 @@
-<div> <h1 style="text-align: left"> Stepan Nedozhdeev </h1> <div style="text-align: right"> <img height="20" src="https://komarev.com/ghpvc/?username=leasynoth&color=blue" /> </div> </div>
+<div> <h3 style="text-align: left"> Stepan Nedozhdeev </h3> <div style="align: right"> <img height="20" src="https://komarev.com/ghpvc/?username=leasynoth&color=blue" /> </div> </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leasynoth&theme=nord)](https://github.com/leasynoth)
 
