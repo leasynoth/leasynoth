@@ -1,4 +1,4 @@
-<table align="left" border=0>
+<table align="left" border="0">
 <tr> 
 <td> <h3 style="text-align: left"> Stepan Nedozhdeev </h3> </td> 
 <td> <div style="float: right"> <img height="20" src="https://komarev.com/ghpvc/?username=leasynoth&color=blue" /> </div> </td>
