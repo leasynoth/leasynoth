@@ -5,6 +5,7 @@
 </tr>
 </table>
 <br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leasynoth&theme=nord)](https://github.com/leasynoth)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasynoth&layout=compact&theme=nord)](https://github.com/leasynoth)
