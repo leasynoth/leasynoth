@@ -1,4 +1,9 @@
-<div> <h3 style="text-align: left"> Stepan Nedozhdeev </h3> <div style="float: right"> <img height="20" src="https://komarev.com/ghpvc/?username=leasynoth&color=blue" /> </div> </div>
+<table>
+<tr> 
+<td> <h3 style="text-align: left"> Stepan Nedozhdeev </h3> </td> 
+<td> <div style="float: right"> <img height="20" src="https://komarev.com/ghpvc/?username=leasynoth&color=blue" /> </div> </td>
+</tr>
+</table>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leasynoth&theme=nord)](https://github.com/leasynoth)
 
