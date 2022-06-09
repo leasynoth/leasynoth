@@ -5,8 +5,9 @@
 </tr>
 </table>
 <br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leasynoth&theme=nord)](https://github.com/leasynoth)
+<a href="https://github.com/leasynoth">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=leasynoth&theme=nord"/>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasynoth&layout=compact&theme=nord)](https://github.com/leasynoth)
 
